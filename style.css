@@ -1,3 +1,6 @@
+body {
+  background-color: #92ABAF;
+}
 main {
   background-color: #91CAD4;
   border: 2px;
@@ -13,20 +16,18 @@ header {
   border-color: lightskyblue;
   border-radius: 15px;
   border-style: solid;
-  box-shadow: 1px 1px 5px white, -1px -1px 5px white;
+  box-shadow: 3px 3px 5px violet, -3px -3px 5px blue;
   display: flow-root;
 }
 h1 {
   color: white;
-  text-shadow: 1px 1px 5px red, -1px -1px 5px maroon;
-}
-a {
-  color: white;
-  text-shadow: 1px 1px 5px white, -1px -1px 5px white;
+  text-shadow: 3px 3px 5px violet, -3px -3px 5px blue;
+  margin: 10px;
 }
 p {
   color: white;
   text-shadow: 3px 3px 5px violet, -3px -3px 5px blue;
+  margin: 10px;
 }
 footer {
   background-color: lightsteelblue;
