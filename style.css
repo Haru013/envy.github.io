@@ -1,18 +1,36 @@
 body {
   background-color: black;
+  border: 2px;
+  border-color: lightskyblue;
+  border-radius: 15px;
+  border-style: solid;
+  box-shadow: 3px 3px 5x violet, -3px -3px 5x blue;
+  display: flow-root;
 }
 header {
   background-color: lightsteelblue;
+  box-shadow: 1px 1px 5x white, -1px -1px 5px white;
+  display: flow-root;
 }
 h1 {
-  color: white;
+  font-color: white;
+  text-shadow: 1px 1px 5px red, -1px -1px 5px maroon;
 }
 a {
-  color: white;
+  font-color: white;
+  text-shadow: 1px 1px 5x white, -1px -1px 5px white;
 }
 p {
-  color: white;
+  font-color: white;
+  text-shadow: 3px 3px 5x violet, -3px -3px 5x blue;
 }
 footer {
   background-color: lightsteelblue;
+  box-shadow: 3px 3px 5x violet, -3px -3px 5x blue;
+  display: flow-root;
+}
+seele {
+  box-shadow: 3px 3px 5x violet, -3px -3px 5x blue;
+  float: right;
+  margin: 10px;
 }
