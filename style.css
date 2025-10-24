@@ -29,7 +29,7 @@ footer {
   box-shadow: 3px 3px 5x violet, -3px -3px 5x blue;
   display: flow-root;
 }
-seele {
+#seele {
   box-shadow: 3px 3px 5x violet, -3px -3px 5x blue;
   float: right;
   margin: 10px;
