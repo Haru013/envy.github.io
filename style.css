@@ -1,1 +1,18 @@
-
+body {
+  background-color: black;
+}
+header {
+  background-color: lightsteelblue
+}
+h1 {
+  color: white;
+}
+a {
+  color: white;
+}
+p {
+  color: white;
+}
+footer {
+  background-color: lightsteelblue
+}
